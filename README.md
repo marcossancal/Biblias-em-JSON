@@ -20,12 +20,17 @@ Com ele, você pode:
 ## 📦 Estrutura do Repositório
 
 📁 json/
+
 └── biblia_ave_maria.json
+
 └── biblia_nova_versao_internacional.json
+
 └── ... outras versões
 
 📁 sql/
+
 └── biblia_ave_maria.sql
+
 └── ... arquivos de importação MySQL
 
 ## 🛠 Como Usar
